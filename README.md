@@ -8,5 +8,7 @@
   <div align="center">
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/python.png" alt="PNG" style="width:100px; height:100px"/>
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/html.png" alt="PNG" style="width:100px; height:100px"/>
+      <img src="https://github.com/conn01sseur/conn01sseur/blob/main/cplusplus.png" alt="PNG" style="width:100px; height:100px"/>
+      <img src="https://github.com/conn01sseur/conn01sseur/blob/main/bash.png" alt="PNG" style="width:100px; height:100px"/>
   </div>
 </div>
