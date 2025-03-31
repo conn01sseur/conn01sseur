@@ -4,12 +4,9 @@
   </a>
   <h1 align="center">I'm conn01sseur</h1>
   <h4>👋 Йоу, я не очень люблю тут что-то выкладывать, поэтому не удивляйся, что тут пусто 🕳️.</h4>
-  <h4>📎 Вообще, все проекты, которые я делаю, создаются на Linux 🐧, а он у меня часто слетает, не сохраняя проект. Так что буду хранить всё здесь 💾 (постараюсь).</h4>
-  <a href="https://github.com/conn01sseur/conn01sseur/blob/main/python.png" align="center">
-    <img src="https://github.com/conn01sseur/conn01sseur/blob/main/python.png" alt="PNG" style="width:100px; height:100px"/>
-    
-  </a>
-  <a href="https://github.com/conn01sseur/conn01sseur/blob/main/Html.png" align="center">
-    <img src="https://github.com/conn01sseur/conn01sseur/blob/main/Html.png" alt="PNG" style="width:100px; height:100px"/>
-  </a>
+  <h4>📎 Вообще, все проекты, которые я делаю, создаются на Linux 🐧, а он у меня часто слетает, не сохраняя проект. Так что буду хранить всё здесь 💾 (постараюсь).</h4>\
+  <div align="center">
+      <img src="https://github.com/conn01sseur/conn01sseur/blob/main/python.png" alt="PNG" style="width:100px; height:100px"/>
+      <img src="https://github.com/conn01sseur/conn01sseur/blob/main/Html.png" alt="PNG" style="width:100px; height:100px"/>
+  </div>
 </div>
