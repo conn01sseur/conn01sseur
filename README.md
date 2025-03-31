@@ -9,7 +9,7 @@
     <img src="https://github.com/conn01sseur/conn01sseur/blob/main/python.png" alt="PNG" style="width:100px; height:100px"/>
     
   </a>
-  <a href="https://github.com/conn01sseur/conn01sseur/blob/main/html.png" align="center">
-    <img src="https://github.com/conn01sseur/conn01sseur/blob/main/html.png" alt="PNG" style="width:100px; height:100px"/>
+  <a href="https://github.com/conn01sseur/conn01sseur/blob/main/Html.png" align="center">
+    <img src="https://github.com/conn01sseur/conn01sseur/blob/main/Html.png" alt="PNG" style="width:100px; height:100px"/>
   </a>
 </div>
