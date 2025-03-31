@@ -7,6 +7,6 @@
   <h4>📎 Вообще, все проекты, которые я делаю, создаются на Linux 🐧, а он у меня часто слетает, не сохраняя проект. Так что буду хранить всё здесь 💾 (постараюсь).</h4>
   <div align="center">
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/python.png" alt="PNG" style="width:100px; height:100px"/>
-      <img src="https://github.com/conn01sseur/conn01sseur/blob/main/Html.png" alt="PNG" style="width:100px; height:100px"/>
+      <img src="https://github.com/conn01sseur/conn01sseur/blob/main/html.png" alt="PNG" style="width:100px; height:100px"/>
   </div>
 </div>
