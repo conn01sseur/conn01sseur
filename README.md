@@ -16,7 +16,7 @@
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/Cplusplus.png" alt="PNG" style="width:100px; height:100px"/>
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/Bash.png" alt="PNG" style="width:100px; height:100px"/>
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/book.png" alt="PNG" style="width:100px; height:100px"/>
-      <img src="https://github.com/conn01sseur/conn01sseur/blob/main/obs.png" alt="PNG" style="width:100px; height:100px"/>
+      <img src="https://github.com/conn01sseur/conn01sseur/blob/main/obss.png" alt="PNG" style="width:100px; height:100px"/>
   </div>
 
   <!--<h3>У меня также есть различные соцсети, если кому-то станет интересно насчёт меня.</h3>-->
