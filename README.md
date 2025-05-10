@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/conn01sseur/conn01sseur/blob/main/forest.gif" align="center">
-    <img src="https://github.com/conn01sseur/conn01sseur/blob/main/keyboard.gif" alt="GIF" style="width:600px; height:auto"/>
+    <img src="https://github.com/conn01sseur/conn01sseur/blob/main/gif/skull.gif" alt="GIF" style="width:600px; height:auto"/>
   </a>
   <h1 align="center">I'm conn01sseur</h1>
   <h4>👋 Йоу, я не очень люблю тут что-то выкладывать, поэтому не удивляйся, что тут пусто 🕳️.</h4>
