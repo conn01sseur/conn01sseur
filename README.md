@@ -5,7 +5,9 @@
   <h1 align="center">Мда</h1>
   <!--<h4>📎 Вообще, все проекты, которые я делаю, создаются на Linux 🐧, а он у меня часто слетает, не сохраняя проект. Так что буду хранить всё здесь 💾 (постараюсь).</h4>-->
   <h4>Пиздец а не код</h4>
-  <h4>順境の日にはその幸いを楽しみ、逆境の日にはよく考えよ。これもあれも神がなされたことであり、人が神に対して何も言えないようにするためである。</h4>
+  <h4>順境の日にはその幸いを楽しみ、逆境の日にはよく考えよ。これもあれも神がなされたことであり、
+    人が神に対して何も言えないようにするためである。</h4>
+  <h3>Господи спаси и сохрани</h3>
   <div align="center">
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/python.png" alt="PNG" style="width:100px; height:100px"/>
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/html.png" alt="PNG" style="width:100px; height:100px"/>
