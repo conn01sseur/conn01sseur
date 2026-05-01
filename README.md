@@ -5,6 +5,8 @@
   <h1 align="center">Мда</h1>
   <!--<h4>📎 Вообще, все проекты, которые я делаю, создаются на Linux 🐧, а он у меня часто слетает, не сохраняя проект. Так что буду хранить всё здесь 💾 (постараюсь).</h4>-->
   <h4>Пиздец а не код</h4>
+  <h4>こんな感じのニュアンスになります：
+マジで自分の人生クソすぎて嫌になる。ほんとにもう疲れたわ、クソが。</h4>
   <div align="center">
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/python.png" alt="PNG" style="width:100px; height:100px"/>
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/html.png" alt="PNG" style="width:100px; height:100px"/>
