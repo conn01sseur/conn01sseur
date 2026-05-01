@@ -7,8 +7,8 @@
   <h4>Пиздец а не код</h4>
   <h4>順境の日にはその幸いを楽しみ、逆境の日にはよく考えよ。これもあれも神がなされたことであり、
     人が神に対して何も言えないようにするためである。</h4>
-  <h2>Господи спаси и сохрани.</h2>
-  <div align="center">
+  <h3>Господи спаси и сохрани всех нас.</h3>
+  <!--<div align="center">
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/python.png" alt="PNG" style="width:100px; height:100px"/>
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/html.png" alt="PNG" style="width:100px; height:100px"/>
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/css.png" alt="PNG" style="width:100px; height:100px"/>
@@ -16,5 +16,5 @@
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/Bash.png" alt="PNG" style="width:100px; height:100px"/>
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/book.png" alt="PNG" style="width:100px; height:100px"/>
       <img src="https://github.com/conn01sseur/conn01sseur/blob/main/obs.png" alt="PNG" style="width:100px; height:100px"/>
-  </div>
+  </div>-->
 </div>
